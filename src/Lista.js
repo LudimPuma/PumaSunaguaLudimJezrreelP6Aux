@@ -67,7 +67,6 @@ const Lista = (props) => {
             
         </div>
     </div>
-    
     )
 }
 export default Lista;
