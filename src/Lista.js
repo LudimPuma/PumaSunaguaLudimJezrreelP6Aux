@@ -14,7 +14,7 @@ const Lista = (props) => {
     }
     return (
     <div className="p-2 bg-dark text-white"  >
-        <div className="text-center"  >
+        <div   >
             <h1>Practica 6 Auxiliatura</h1>
             <br />
             <h5>PETICIONES HTTP Y LISTAS EN REACT</h5>
